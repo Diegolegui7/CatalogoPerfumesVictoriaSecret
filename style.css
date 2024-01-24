@@ -27,10 +27,17 @@ header{
     margin-right: 20px;
     padding-top: 5px;
 }
-.modelosperfumes img {
-    max-width: 100%;
-    height: auto;
+.modelosperfumes{ 
+    display: flex;
+     justify-content: center;
+     height: 600px;
+ }
+
+ .modelosperfumes simg{
+    width: 100%;
 }
+
+ 
 
 .titulos{
     display: flex;
@@ -54,17 +61,7 @@ h1{
    height: 60vh;
 }
 
-#artistasdestacados{
-    margin: 50px 20px;
-    height: 100vh;
-    max-width: 95%;
-}
 
-#artistasdestacados h2{
-    height: 10%;
-    font-size: 8vh;
-    text-align: center;
-}
 .contenedor{
     height: 100%;
 }
