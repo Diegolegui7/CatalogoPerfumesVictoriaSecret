@@ -4,8 +4,10 @@
 }
 
 header{
-    background-color: #eac1ff;
+    background-color: #ea9561;
 }
+
+
 
 .header-login{
     display: flex;
@@ -185,6 +187,7 @@ h1{
     justify-content: center;
     margin: 70px;
     font-size: 50px;
+    color:#5233FF
 }
 .carta-columna{
     display: flex;
@@ -205,29 +208,7 @@ h1{
     justify-content: center;
     font-family: cursive;
  }
- td{
-    height: 40px;
-  }
-.botones-carrito{
-    width: 30px;
-    border-radius: 30px;
-    font-size: 30px;
-}
-.botones-carrito:hover{
-    background-color: blue;
-}
-  /** Agrege la clasee carrito-img, fijate en la linea 129 del archivo subastas.js que le agregue la clase al elemento que estabas creando**/
-  .carrito-img{ 
-    height: 60px;
-    width: 60px;
-  }
 
-  .btnvendido{
-   background-color: red;
-  }
-  .btnvendido{
-    background-color: none;
-  }
 
 /* Ajustes generales */
 body {
