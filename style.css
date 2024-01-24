@@ -201,6 +201,11 @@ h1{
     display: flex;
     flex-direction: column;
     align-items: center;
+  font-size: 1rem;
+  font-family: 'Pacifico', cursive;
+  font-weight: lighter;
+  padding: 20px;
+  text-align: center;
 }
 
  #carrito h2{
@@ -259,12 +264,12 @@ h1{
   margin: 20px;
   text-align: center;
   font-weight: 600;
-  width: 80%;
+  width: 85%;
   max-width: 420px;
 }
 
 .carta-redes-container{
-  width: 40%;
+  width: 50%;
 }
 
 
