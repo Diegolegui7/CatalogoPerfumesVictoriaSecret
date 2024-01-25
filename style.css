@@ -30,11 +30,12 @@ header{
 .modelosperfumes{ 
     display: flex;
      justify-content: center;
-     height: 600px;
+     height: 300px;
  }
 
- .modelosperfumes simg{
+ .modelosperfumes img{
     width: 100%;
+    height: auto;
 }
 
  
@@ -326,4 +327,10 @@ body {
     .carta-pintura{
         height: 80%;
     }
+
+    .modelosperfumes{ 
+        display: flex;
+         justify-content: center;
+         height: 200px;
+     }
 }
