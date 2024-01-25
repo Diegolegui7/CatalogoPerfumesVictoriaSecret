@@ -30,7 +30,7 @@ header{
 .modelosperfumes{ 
     display: flex;
      justify-content: center;
-     height: 300px;
+     height: 500px;
  }
 
  .modelosperfumes img{
@@ -330,6 +330,6 @@ body {
     .modelosperfumes{ 
         display: flex;
          justify-content: center;
-         height: 200px;
+         height: 250px;
      }
 }
